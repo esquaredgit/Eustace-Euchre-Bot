@@ -1,5 +1,5 @@
 # Eustace-Euchre-Bot
-Calvin Isch, Ethan Eldridge
+### Calvin Isch, Ethan Eldridge
 
 Our goal in this repository is to create the classes and algorithms necessary to create an AI Euchre player and an interface that a human player can utilize to engage with that AI.
 
